@@ -1,0 +1,1 @@
+MOTORplate Starter Kit for Raspberry Pi A pair of Pi-Plates products to get you started driving motors. Includes a MOTORplate motion controller board, and the CASEplate for a clean and robust mechanical assembly. Note that the motors pictured are not included.

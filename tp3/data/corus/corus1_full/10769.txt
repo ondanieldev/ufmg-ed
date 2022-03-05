@@ -1,0 +1,1 @@
+Generic USB Nano V3.0 ATmega328 Micro-controller CH340G board For Arduino EK1596

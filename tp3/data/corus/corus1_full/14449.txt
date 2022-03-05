@@ -1,0 +1,1 @@
+Globalscale MW302 IoT Starter Kit Powered by AWS The Marvell EZ-Connect MW302 IoT Starter Kit Powered by AWS is the official reference design kit offering from Marvell to enable Smart home and Home kit development.

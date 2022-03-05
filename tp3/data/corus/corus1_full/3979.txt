@@ -1,0 +1,1 @@
+CyberData 011146 VoIP/SIP Paging Server with Bell Scheduler - Supports 600 Ohm output- Page start relay contacts- Remote amp fault sensor- SIP RFC 3261 compatible- Multicast output- Two SIP endpoints (one for Night Ringer)- DTMF control of zone selection- Delayed Page Support- Line-In connection for music- Line-out connection to support analog Amps

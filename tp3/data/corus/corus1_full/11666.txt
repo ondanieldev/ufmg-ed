@@ -1,0 +1,1 @@
+Raspberry Pi Compute Module COMPUTE MODULE, RASPBERRY PI DEV BOARD; Silicon Manufacturer:Broadcom; Core Architecture:ARM; Core Sub-Architecture:ARM1176JZF-S; Silicon Core Number:BCM2835; Silicon Family Name:BCM2xxx; Kit Contents:Compute Module BCM2835 ;RoHS Compliant: Yes

@@ -1,0 +1,1 @@
+512MB [1x512MB] SDRAM PC133 Non-ECC Unbuffered 168 Pin 3.3V CL=2 Memory 32X8

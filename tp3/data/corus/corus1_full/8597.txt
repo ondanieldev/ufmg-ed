@@ -1,0 +1,1 @@
+Cisco lab for preparing for the NETWORK+, SECURITY+ and the A+ certifications. Includes a Cisco WS-C2950T-24 Switch(Cisco Catalyst 2950T 24 Switch-24 10/100 Mbps ports with two fixed 10/100/1000BASE-T uplinks) and a 1841 ISR Router. 15.1 IOS Image. Cisco 1841 ISR Router IOS Image is: 15.1 IOS (c1841-adventerprisek9-mz.151-4.M1.bin) Advanced Enterprise IOS Includes Rack Ears

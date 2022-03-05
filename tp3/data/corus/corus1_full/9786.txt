@@ -1,0 +1,1 @@
+Generic RS-232 to RS-485 Adapter Interface Converter

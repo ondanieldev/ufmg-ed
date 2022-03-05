@@ -1,0 +1,1 @@
+AntMiner S4 ~2000Gh/s @ 0.69W/Gh 28nm ASIC Bitcoin Miner The AntMiner S4 is the fourth generation Bitcoin mining rig by Bitmain. It uses the state of the art BM1382 chip powered by the 28nm tech process with ultra-low power consumption

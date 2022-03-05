@@ -1,0 +1,1 @@
+Intel CM8064401739300S Xeon E5-2699 v3 Octadeca-core (18 Core) 2.30 GHz Processor - Socket R3 (LGA2011-3) OEM Pack - 4.50 MB - 45 MB Cache - 9.60 GT/s QPI - 5 GT/s DMI - Yes - 3.60 GHz Overclocking Speed - 22 nm - 145 W - 169.5ftF (76.4ftC) - 1.3 V DC

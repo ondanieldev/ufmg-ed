@@ -1,0 +1,1 @@
+Qunqi Mini ST-LINK/V2 STLINK debugger/programmer for STM8 and STM32

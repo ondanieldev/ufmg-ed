@@ -1,0 +1,1 @@
+MOXA NPort 5110 - 1 Port Serial Device Server, 10/100 Mbps, RS-232, DB9 Male, 15KV ESD, 12-48VDC, Compact Serial to Ethernet Converter

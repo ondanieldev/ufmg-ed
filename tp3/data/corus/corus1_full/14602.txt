@@ -1,0 +1,1 @@
+CJRSLRB EZP2010 High-Speed USB SPI Programmer Support 24 25 93 EEPROM 25 Flash BIOS Chip

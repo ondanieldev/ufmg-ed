@@ -1,0 +1,1 @@
+Bitmain AntMiner U3 Bitcoin Miner Version 2 [IMPORTANT NOTE: The included power adapter and USB cable will only yield about 40-45 GH/s (with default cgminer settings).

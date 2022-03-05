@@ -1,0 +1,1 @@
+ASUS Arctic Square CPU Cooler CPU Support:  Intel  Core 2 Extreme / Intel  Core 2 Quad  Intel  Core 2 Duo / Pentium  processor family  AMD Athlon  64 X2/ FX  AMD Athlon  64/ Sempron   Fan Speed 2300 rpm   10% with PWM control  Material Cu. Base + Al. Fin + 4 Copper Heat Pipes

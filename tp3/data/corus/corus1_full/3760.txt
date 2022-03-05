@@ -1,0 +1,1 @@
+Sparepart: HP NIC PRO/1000 CT, 635523-001 Condition Note: UsedHP Rp5800 Retail System Network Interface Controller CardSPS: 635523-001Model: Intel Pro 1000 CT GbEData Transfer Rate: 1000MbpsPorts: Ethernet (RJ-45)

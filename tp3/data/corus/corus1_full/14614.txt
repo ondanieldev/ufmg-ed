@@ -1,0 +1,1 @@
+VoCore v1.0 - OpenWRT Linux SBC with WiFi and Docking Board

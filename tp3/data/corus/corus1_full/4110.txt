@@ -1,0 +1,1 @@
+BL460C GEN8 1X E5-2650L-1.80 8 Blade/ Intel Xeon E5-2650 Eight-Core (2.0GHz, 20MB cache)/ Intel/ 1 Prozessor/ ohne Festplatte/ HP Smart Array P220i Controller with 512MB FBWC RAID 0,1

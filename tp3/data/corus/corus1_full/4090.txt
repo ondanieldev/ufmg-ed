@@ -1,0 +1,1 @@
+INTEL Single Pack DQ77KB - BOXDQ77KB The Intel Desktop Board DQ77KB is based on the Intel Q77 Express Chipset and supports 2nd and 3rd generation Intel Core Processors in the LGA 1155 package.  The thin mini footprint is an excellent solution to any small form factor applications that re

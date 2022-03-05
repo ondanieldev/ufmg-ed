@@ -1,0 +1,1 @@
+SATA to IDE Adapter - Connects a SATA HDD to IDE Interface Connect a SATA hard drive to your motherboard's IDE controller with this SATA to IDE Converter! It features the JMicron JM20330 chipset and supports 3.5-inch IDE hard drives and 5.25-inch optical drives. It's compliant with Serial ATA specification and supports up to UDMA/133 drives!

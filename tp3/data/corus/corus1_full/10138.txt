@@ -1,0 +1,1 @@
+HMC5883L 3 Axis Electronic Compass Magnetometer Sensor Module 3V-5V For Arduino

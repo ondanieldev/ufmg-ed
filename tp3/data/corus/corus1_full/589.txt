@@ -1,0 +1,1 @@
+GWC AE2201 USB to Ethernet Adapter The USB 2.0 to Fast Ethernet Adapter is a high performance and highly integrated USB2.0 bus Ethernet Controller with embedded 7K*16 bit SRAM. The Adapter supports both 10 Mbps and 100 Mbps Ethernet function based on IEEE802.3/IEEE802.3u LAN standard.

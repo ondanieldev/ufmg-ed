@@ -1,0 +1,1 @@
+1 PCI Express x8 Slot Riser Card Right Side SpecificationsMfr Part Number: RSC-R1UU-E8R+Compatible Chassis: SC815U; SC812UOutput Type: 1x PCI-Express x8 SlotForm Factor: 1UPosition: Right Slot

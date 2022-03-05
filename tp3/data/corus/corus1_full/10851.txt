@@ -1,0 +1,1 @@
+AntMiner S5 ~1155Gh/s @ 0.51W/Gh 28nm ASIC Bitcoin Miner Bitmains 3rd generation Bitcoin mining ASIC, the BM1384 provides significant improvements over the previous BM1382 chip. Hashrate per mm2 at voltage 0.75V has been increased over 20% while reducing power consumption by 30%. This improvement is the result of months of hard work and investment in the Bitcoin ecosystem.

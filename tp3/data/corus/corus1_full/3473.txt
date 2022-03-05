@@ -1,0 +1,1 @@
+GELID SOLUTIONS PWM Fan Adapter for VGA Cooler Fan Connect multiple PWM fans with PWM Y cable. Suitable for ATI/Nvidia reference display card with 4pin PWM fan header. 70mm in length, sleeved cable. Operating temperature range: -20C to +70C (blue-PWM, Yellow-Fan Speed Signal, Red-+12V, Black-Ground)

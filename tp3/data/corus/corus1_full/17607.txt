@@ -1,0 +1,1 @@
+FICBOX 5Pcs Dual-axis XY Joystick Module For Arduino Joystick Module Dual-axis XY Joystick Module Dimensions: 4 * 2.6 * 3.2CM 2 potentiometers for 2 axes 1 switch Connector: +5Vcc - GND - VRx - VRy - SW

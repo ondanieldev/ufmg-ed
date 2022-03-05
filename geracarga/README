@@ -1,0 +1,42 @@
+//---------------------------------------------------------------------
+// Arquivo      : README
+// Conteudo     : documentacao sobre aplicacao geracarga 
+// Autor        : Wagner Meira Jr. (meira@dcc.ufmg.br)
+// Historico    : 2021-12-23 - arquivo criado
+//---------------------------------------------------------------------
+
+A aplicacao geracarga tem por objetivo gerar cargas de trabalho para o ordenador de URLs
+
+Instalacao
+
+Para instalar a aplicacao, basta descompactar o arquivo geracarga.tar.gz
+
+> cd <diretoriodestino>
+> gzip -d geracarga.tar.gz
+> tar xvf geracarga.tar
+
+Compilacao
+
+Para compilar basta:
+
+> cd <diretoriodestino>
+> make all 
+
+Teste
+
+Ao compilar, o comando make all gera um arquivo exemplo em /tmp/geracarga.out
+
+Utilizacao
+
+A aplicacao geracarga permite a definicao de varios parametros da carga de trabalho:
+
+geracarga
+	-o <arq>	(arquivo de saida) 
+	-u <num>	(numero de URLs)
+	-p <num>	(profundidade URL)
+	-q <num>	(variancia profundidade URL)
+	-r <num>	(numero de acessos)
+	-s <num>	(variancia numero de acessos)
+	-h	(opcoes de uso)
+
+
